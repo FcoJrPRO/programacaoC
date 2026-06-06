@@ -3,7 +3,7 @@
 #include <string.h>
 #include <time.h>
 
-// Desafio War: implementando a funcionalidade de missões estratégicas
+// Desafio War: Implementando a funcionalidade de missões estratégicas.
 // Aluno: Francisco Araújo de Paiva Junior
 // Tema 1 - Estruturas de Dados: Conceitos e Representação
 // Nível: Mestre
