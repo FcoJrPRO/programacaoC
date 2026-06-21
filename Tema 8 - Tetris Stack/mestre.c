@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-// Desafio Tetris Stack: Fila e Pilha de reserva com Trocas
+// Desafio Tetris Stack: Fila e Pilha de Reserva com Trocas
 // Aluno: Francisco Araújo de Paiva Junior
 // Tema 3 - Pilhas e Filas (2º Semestre 2026)
 // Nível: Mestre
