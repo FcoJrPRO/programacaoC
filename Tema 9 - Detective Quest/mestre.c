@@ -8,7 +8,7 @@
 // Tema 4 - Arvore Binaria, Arvore de Busca (BST) e Tabela Hash (2º Semestre 2026)
 // Nível: Mestre
 
-// --- CONFIGURACOES DA HASH ---
+// ---- CONFIGURACOES DA HASH ----
 #define TAM_HASH 10
 
 // --- DEFINICAO DAS ESTRUTURAS ---
